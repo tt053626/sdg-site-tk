@@ -1912,7 +1912,7 @@ footer {
     #main-content.goal-indicators .indicator-cards .indicator-card-number.status.notstarted,
     #main-content.goal-indicators .indicator-cards span:not(.tags):not(.tag):not(.sr-only).status.notstarted {
       color: #0b0c0c;
-      border: 1px solid #0b0c0c; }
+      border: outset; }
     #main-content.goal-indicators .indicator-cards .indicator-card-number.status.notapplicable,
     #main-content.goal-indicators .indicator-cards span:not(.tags):not(.tag):not(.sr-only).status.notapplicable {
       color: #0b0c0c;
@@ -1936,7 +1936,7 @@ footer {
     border: 1px solid transparent; }
   #main-content.goal-indicators .indicator-cards .tags .tag.notstarted {
     color: #0b0c0c;
-    border: 1px solid #0b0c0c; }
+    border: outset; }
   #main-content.goal-indicators .indicator-cards .tags .tag.notapplicable {
     color: #0b0c0c;
     border: 1px solid #0b0c0c; }
@@ -2172,7 +2172,7 @@ body.contrast-high #main-content.goal-indicators.goal-by-target .indicator-cards
       #main-content .statuses > div .status.inprogress .status-inner {
         background-color: #757575; }
     #main-content .statuses > div .status.notstarted {
-      border: 1px solid #0b0c0c;
+      border: outset;
       color: #0b0c0c; }
       #main-content .statuses > div .status.notstarted .status-inner {
         background-color: yellow; }
@@ -2484,7 +2484,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
     border: 1px solid transparent; }
   .layout-goal-by-target-vertical .status.notstarted {
     color: #0b0c0c;
-    border: 1px solid #0b0c0c; }
+    border: outset; }
   .layout-goal-by-target-vertical .status.notapplicable {
     color: #0b0c0c;
     border: 1px solid #0b0c0c; }
@@ -2512,7 +2512,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
       border: 1px solid transparent; }
     .layout-goal-by-target-vertical .tags .tag.notstarted {
       color: #0b0c0c;
-      border: 1px solid #0b0c0c; }
+      border: outset; }
     .layout-goal-by-target-vertical .tags .tag.notapplicable {
       color: #0b0c0c;
       border: 1px solid #0b0c0c; }
