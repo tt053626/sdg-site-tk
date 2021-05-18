@@ -2133,8 +2133,8 @@ body.contrast-high #main-content.goal-indicators.goal-by-target .indicator-cards
   background: repeating-linear-gradient(135deg, #757575, white 10px, #757575 10px, white 20px); }
 
 .notstarted {
-  background-color: white;
-  background: white; }
+  background-color: yellow;
+  background: yellow; }
 
 .inprogress {
   background-color: #757575;
@@ -2175,7 +2175,7 @@ body.contrast-high #main-content.goal-indicators.goal-by-target .indicator-cards
       border: 1px solid #0b0c0c;
       color: #0b0c0c; }
       #main-content .statuses > div .status.notstarted .status-inner {
-        background-color: white; }
+        background-color: yellow; }
     #main-content .statuses > div .status.notapplicable {
       border: 1px solid #0b0c0c;
       color: #0b0c0c; }
